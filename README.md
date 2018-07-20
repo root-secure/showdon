@@ -1,2 +1,5 @@
-# showdon
-show don
+# show don
+
+```
+# go build && ./showdon
+```
