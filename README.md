@@ -5,7 +5,7 @@ We highly reccomend using don in your go apps! Please feel free to submit pull r
 
 ```
 import (
-    "github.com/root-secure/showdon"
+    "github.com/root-secure/showdon/libdon"
 )
 
 don := showdon.NewDon()

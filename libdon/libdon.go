@@ -1,4 +1,4 @@
-package main
+package libdon
 
 type Don struct {
 }
