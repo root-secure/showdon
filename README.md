@@ -8,7 +8,7 @@ import (
     "github.com/root-secure/showdon/libdon"
 )
 
-don := showdon.NewDon()
+don := libdon.NewDon()
 fmt.Println(don.Get())
 ```
 
