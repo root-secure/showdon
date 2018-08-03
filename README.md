@@ -1,7 +1,26 @@
 # show don
 
+We highly reccomend using don in your go apps! Please feel free to submit pull requests.
+
+
+```
+import (
+    "github.com/root-secure/showdon"
+)
+
+don := showdon.NewDon()
+fmt.Println(don.Get())
+```
+
+or to run the existing binary, clone and:
+
+
 ```
 # go build && ./showdon
 ```
 
 ![](images/showdon.png?raw=true)
+
+## Acknowledgments
+
+* Don Bowman - https://blog.donbowman.ca/
