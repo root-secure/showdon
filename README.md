@@ -1,6 +1,6 @@
 # show don
 
-We highly reccomend using don in your go apps! Please feel free to submit pull requests.
+We highly recommend using don in your go apps! Please feel free to submit pull requests.
 
 
 ```
